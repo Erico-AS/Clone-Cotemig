@@ -290,7 +290,7 @@ div button {
 #unidade {
     display: flex;
     width: 100%;
-    height: 26rem;
+    height: 80%;
     margin-top: 21rem;
     justify-content: space-around;
 }
