@@ -192,6 +192,22 @@ div button {
     justify-content: space-around;
 }
 
+#card1 {
+    max-height: 50vh;
+}
+
+#card2 {
+    max-height: 62vh;
+}
+
+#card3 {
+    max-height: 50vh;
+}
+
+#card4 {
+    max-height: 42vh;
+}
+
 .card-gp {
     border-radius: 20px; 
     overflow: hidden; 
